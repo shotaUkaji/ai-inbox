@@ -1,5 +1,5 @@
 # テスト: 自己紹介
-- status: todo
+- status: doing
 - 担当: wsl2
 - モデル: ollama
 
