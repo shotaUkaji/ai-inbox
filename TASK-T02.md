@@ -1,5 +1,5 @@
 # テスト: Claude経由
-- status: todo
+- status: doing
 - 担当: wsl2
 - モデル: sonnet
 
